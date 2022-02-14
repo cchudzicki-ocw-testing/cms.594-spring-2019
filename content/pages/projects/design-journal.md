@@ -1,8 +1,12 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 87aa42b4-d995-3fdb-cd6f-a28479e46e15
 title: Design Journal
+type: CourseSection
 uid: ace93d2b-fbf7-732b-4baf-d796ac722cc5
 ---
 

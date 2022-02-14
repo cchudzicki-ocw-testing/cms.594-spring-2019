@@ -9,7 +9,9 @@ image_metadata:
   credit: ''
   image-alt: 'Diagram of apparatus buttons on left and instructions for buttons on
     right. '
+learning_resource_types: []
 resourcetype: Image
 title: CMS-594S19-th.jpeg
+type: OCWImage
 uid: 5210a6ea-f97a-cfed-eb39-a3701fb53ab6
 ---
