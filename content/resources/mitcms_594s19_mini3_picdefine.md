@@ -8,6 +8,5 @@ parent_title: Mini Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'CMS.594 Education Technology Studio, Mini Project 3: PicDefine'
-type: OCWFile
 uid: e4099dc0-9067-7e68-e3de-c555fa9f4ecd
 ---

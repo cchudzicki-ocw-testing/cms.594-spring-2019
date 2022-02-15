@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'CMS.594 Education Technology Studio, Session 13: Playtesting'
-type: OCWFile
 uid: 87414b74-817f-1636-0403-be2a7c7218ef
 ---

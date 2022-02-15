@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'CMS.594 Education Technology Studio, Session 12: Ideation and Prototyping'
-type: OCWFile
 uid: f58c2d2f-d422-6576-afb0-08dc91f9b419
 ---

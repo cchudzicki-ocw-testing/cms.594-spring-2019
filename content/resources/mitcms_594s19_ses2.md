@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'CMS.594 Education Technology Studio, Session 2: Introduction to Learning Analytics'
-type: OCWFile
 uid: decbfdfa-9e69-2515-eb94-4b71f50aa1fb
 ---

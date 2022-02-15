@@ -8,6 +8,5 @@ parent_title: Mini Projects
 parent_type: CourseSection
 resourcetype: Other
 title: MITCMS_594S19_mini2_lab_extras.zip
-type: OCWFile
 uid: 84ec60ef-4b5a-63b8-dd2d-44d9d3d4c0ba
 ---

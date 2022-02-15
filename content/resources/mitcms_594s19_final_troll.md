@@ -9,6 +9,5 @@ parent_title: Final Project
 parent_type: CourseSection
 resourcetype: Document
 title: 'CMS.594 Education Technology Studio, Final Project: Troll'
-type: OCWFile
 uid: 34aaafa8-fbcf-3682-f5ae-4945a80e9361
 ---

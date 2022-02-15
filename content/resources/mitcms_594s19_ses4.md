@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'CMS.594 Education Technology Studio, Session 4: Demonstrations of Your Data-Driven
   Work'
-type: OCWFile
 uid: 4d7432cc-3920-243f-babd-0cc3c8b2b635
 ---

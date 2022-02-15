@@ -8,6 +8,5 @@ parent_title: Mini Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'CMS.594 Education Technology Studio, Mini Project 1: Geographical Location'
-type: OCWFile
 uid: 9a9644bf-220d-4b79-1fdb-6db4deaa4996
 ---

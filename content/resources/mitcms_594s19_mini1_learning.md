@@ -8,6 +8,5 @@ parent_title: Mini Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'CMS.594 Education Technology Studio, Mini Project 1: Course Design'
-type: OCWFile
 uid: 6b802277-5cbe-7916-d096-f0476b31d51a
 ---

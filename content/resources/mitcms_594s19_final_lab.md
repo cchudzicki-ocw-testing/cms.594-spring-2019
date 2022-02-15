@@ -9,6 +9,5 @@ parent_title: Final Project
 parent_type: CourseSection
 resourcetype: Document
 title: 'CMS.594 Education Technology Studio, Final Project: Hands-On Physics'
-type: OCWFile
 uid: ca4028e3-63f7-ea60-1972-95889d6b706f
 ---

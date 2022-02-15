@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'CMS.594 Education Technology Studio, Final Project: Collaborative Textbook
   Policy'
-type: OCWFile
 uid: 29cf54c8-a54c-b92f-d10e-bcf67846eeae
 ---

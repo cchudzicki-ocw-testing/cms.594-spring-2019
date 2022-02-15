@@ -9,6 +9,5 @@ parent_title: Final Project
 parent_type: CourseSection
 resourcetype: Other
 title: MITCMS_594S19_final_lab_extras.zip
-type: OCWFile
 uid: ccf36bfb-2b3f-3284-0558-3da0c4b67e2c
 ---

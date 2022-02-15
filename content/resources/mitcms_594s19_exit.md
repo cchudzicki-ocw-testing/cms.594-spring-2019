@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: CMS.594 Education Technology Studio, Daily Exit Ticket
-type: OCWFile
 uid: d9943272-1c80-9b33-a3de-636f978200ee
 ---

@@ -6,7 +6,6 @@ parent_title: Projects
 parent_type: CourseSection
 parent_uid: 87aa42b4-d995-3fdb-cd6f-a28479e46e15
 title: Final Project
-type: CourseSection
 uid: 2307cf57-60eb-7e83-b3aa-c9be16cb1553
 ---
 

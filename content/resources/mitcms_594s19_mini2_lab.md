@@ -8,6 +8,5 @@ parent_title: Mini Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'CMS.594 Education Technology Studio, Mini Project 2: Lab Playtest'
-type: OCWFile
 uid: 571384f8-16c6-f9bd-72b5-05efebe08c7d
 ---

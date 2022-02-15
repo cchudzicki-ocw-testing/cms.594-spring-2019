@@ -8,6 +8,5 @@ parent_title: Mini Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'CMS.594 Education Technology Studio, Mini Project 3: Makerspace'
-type: OCWFile
 uid: 1aa70276-b881-b2a5-ff1c-815af98f154f
 ---

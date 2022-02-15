@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'CMS.594 Education Technology Studio, Session 1: Introduction'
-type: OCWFile
 uid: 66ad4f2e-c6bc-b1e3-c4f1-d042b0ff3287
 ---

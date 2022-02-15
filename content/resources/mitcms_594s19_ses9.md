@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'CMS.594 Education Technology Studio, Session 9: Accessibility'
-type: OCWFile
 uid: 5771895b-0ffd-541e-2302-e659593eb43b
 ---

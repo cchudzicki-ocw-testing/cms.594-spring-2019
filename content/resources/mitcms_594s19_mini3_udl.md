@@ -8,6 +8,5 @@ parent_title: Mini Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'CMS.594 Education Technology Studio, Mini Project 3: Universal Design Learning'
-type: OCWFile
 uid: 991d1cbc-929b-59de-f7c2-87ced99334f2
 ---
