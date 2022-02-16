@@ -5,6 +5,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-594-educ
 file_type: application/zip
 learning_resource_types:
 - Projects
+ocw_type: OCWFile
 parent_title: Final Project
 parent_type: CourseSection
 resourcetype: Other
