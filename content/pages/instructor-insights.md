@@ -83,7 +83,7 @@ Occasionally (fall semesters)
 Student Information
 -------------------
 
-![14 students took this course when it was taught in Spring 2019.]({{< resource_file c8bee804-ce77-cbc3-60d6-4a462189252b >}})
+{{< resource c8bee804-ce77-cbc3-60d6-4a462189252b >}}
 
 ### Breakdown by Major
 
