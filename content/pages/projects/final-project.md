@@ -12,7 +12,7 @@ uid: 2307cf57-60eb-7e83-b3aa-c9be16cb1553
 
 Students will work individually or in teams of two to identify an extension of one of the mini-projects that provides an innovative solution to a student-identified problem of practice in education. Students may also identify a project of their own choosing, in consultation with the instructor(s). To inform the final project, students will conduct stakeholder/empathy interviews and will be expected to integrate stakeholder input into their final projects.
 
-Project prototype and slide deck should be linked in the {{< resource_link ace93d2b-fbf7-732b-4baf-d796ac722cc5 "design journal" >}}. The final written product should be uploaded to the course website.
+Project prototype and slide deck should be linked in the {{% resource_link ace93d2b-fbf7-732b-4baf-d796ac722cc5 "design journal" %}}. The final written product should be uploaded to the course website.
 
 Final project deliverables include:
 
@@ -34,12 +34,12 @@ Students may choose from one of the written products listed below and examples w
 Example Projects:
 -----------------
 
-{{< resource_link 34aaafa8-fbcf-3682-f5ae-4945a80e9361 "Troll: A Game-Based Program for Enhanced Computer Troubleshooting in the Classroom Policy Brief (PDF)" >}}
+{{% resource_link 34aaafa8-fbcf-3682-f5ae-4945a80e9361 "Troll: A Game-Based Program for Enhanced Computer Troubleshooting in the Classroom Policy Brief (PDF)" %}}
 
-{{< resource_link 29cf54c8-a54c-b92f-d10e-bcf67846eeae "Collaborative Textbook Policy Brief (PDF)" >}}
+{{% resource_link 29cf54c8-a54c-b92f-d10e-bcf67846eeae "Collaborative Textbook Policy Brief (PDF)" %}}
 
 Practice Space Prepares Teachers for Hands-On Physics
 
 *   [Practice Space Writeup (PDF)  
     ]({{< baseurl >}}/resources/mitcms_594s19_final_lab)
-*   {{< resource_link ccf36bfb-2b3f-3284-0558-3da0c4b67e2c "Practice Space Additional Files (ZIP)" >}} This file contains 7 .DOCX and 3 .SVG files.
+*   {{% resource_link ccf36bfb-2b3f-3284-0558-3da0c4b67e2c "Practice Space Additional Files (ZIP)" %}} This file contains 7 .DOCX and 3 .SVG files.
