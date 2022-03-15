@@ -1,16 +1,15 @@
 ---
 content_type: page
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: dcbc5b94-c050-8ca0-9b7b-027356f9c3cb
 ---
-
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
 Below, Drs. Joshua Littenberg-Tobias and José A. Ruipérez-Valiente describe various aspects of how they taught _CMS.594 Education Technology Studio._
 
@@ -50,8 +49,7 @@ Below, Drs. Joshua Littenberg-Tobias and José A. Ruipérez-Valiente describe va
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
@@ -65,8 +63,7 @@ The students' grades were based on the following activities:
 
 Instructors provided grading rubrics for written products and prototypes as well as for oral presentations.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -80,10 +77,11 @@ HASS-S ![](/images/educator/icon-question-hass-s.png)
 
 Occasionally (fall semesters)
 
-Student Information
--------------------
+## Student Information
 
-{{< resource c8bee804-ce77-cbc3-60d6-4a462189252b >}}
+### Enrollment
+
+14 students
 
 ### Breakdown by Major
 
@@ -91,17 +89,14 @@ The students enrolled in the course included a mix of EECS majors and others wit
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Class/Studio Session
---------------------
+### Class/Studio Session
 
 Met 1 time per week for 3 hours per session; 14 sessions total; mandatory attendance.
 
-Out of Class
-------------
+### Out of Class
 
 Completion of readings, design journal entries, and projects.
