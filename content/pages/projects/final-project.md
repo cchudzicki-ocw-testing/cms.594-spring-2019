@@ -40,6 +40,5 @@ Example Projects:
 
 Practice Space Prepares Teachers for Hands-On Physics
 
-*   [Practice Space Writeup (PDF)  
-    ]({{< baseurl >}}/resources/mitcms_594s19_final_lab)
+*   {{% resource_link "ca4028e3-63f7-ea60-1972-95889d6b706f" "Practice Space Writeup (PDF)       " %}}
 *   {{% resource_link ccf36bfb-2b3f-3284-0558-3da0c4b67e2c "Practice Space Additional Files (ZIP)" %}} This file contains 7 .DOCX and 3 .SVG files.
