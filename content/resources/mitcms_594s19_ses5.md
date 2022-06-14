@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-594-education-technology-studio-spring-2019/91f6d9886d7e5625c975cecb836af07c_MITCMS_594S19_ses5.pdf
+file: /courses/cms-594-education-technology-studio-spring-2019/91f6d9886d7e5625c975cecb836af07c_MITCMS_594S19_ses5.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
