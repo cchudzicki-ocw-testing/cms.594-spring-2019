@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Required readings as well as additional readings for undergraduates/required
+  readings for graduate students for CMS.594 Education Technology Studio. '
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

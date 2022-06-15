@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Design journal assignments and instructions for CMS.594 Education Technology
+  Studio.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

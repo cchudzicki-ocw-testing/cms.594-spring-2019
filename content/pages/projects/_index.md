@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Overview of the three main assignments in CMS.594 Education Technology
+  Studio, including the design journal, mini projects, and final project.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

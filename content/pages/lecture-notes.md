@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Class descriptions, including session activities and lecture slides,
+  for CMS.594 Education Technology Studio.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

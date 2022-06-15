@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Instructions for and examples of the final project for CMS.594 Education
+  Technology Studio.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

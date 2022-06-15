@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Instructions and examples of three educational technology projects for
+  CMS.594 Education Technology Studio.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
