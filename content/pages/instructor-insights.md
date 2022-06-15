@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "In this section Drs. Joshua Littenberg-Tobias and Jos\xE9 A. Ruip\xE9\
+  rez-Valiente describe various aspects of how they taught CMS.594 Education Technology\
+  \ Studio."
 draft: false
 layout: instructor_insights
 learning_resource_types: []
